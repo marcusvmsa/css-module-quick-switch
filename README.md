@@ -1,5 +1,5 @@
-# css-module-quick-switch package
+# CSS module quick switch
 
-A short description of your package.
+Quick switch between JSX/SCSS files with the same path/name
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![CSS module quick switch demo](http://g.recordit.co/gPIJ3wFsER.gif)
