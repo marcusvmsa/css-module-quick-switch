@@ -1,0 +1,18 @@
+{
+  "name": "css-module-quick-switch",
+  "main": "./lib/css-module-quick-switch",
+  "version": "0.0.0",
+  "description": "Quick switch between JSX/SCSS files with the same path/name",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "css-module-quick-switch:toggle"
+  },
+  "repository": "https://github.com/atom/css-module-quick-switch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

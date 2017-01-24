@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Switch style/script",
+        "command": "css-module-quick-switch:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "css-module-quick-switch",
+          "submenu": [
+            {
+              "label": "Switch style/script",
+              "command": "css-module-quick-switch:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
