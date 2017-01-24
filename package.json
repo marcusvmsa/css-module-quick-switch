@@ -1,7 +1,7 @@
 {
   "name": "css-module-quick-switch",
   "main": "./lib/css-module-quick-switch",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Quick switch between JSX/SCSS files with the same path/name",
   "keywords": [],
   "activationCommands": {
