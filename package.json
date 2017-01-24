@@ -1,21 +1,19 @@
 {
   "name": "css-module-quick-switch",
   "main": "./lib/css-module-quick-switch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Quick switch between JSX/SCSS files with the same path/name",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "css-module-quick-switch:toggle"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/mamute/css-module-quick-switch.git"
-    },
+    "type": "git",
+    "url": "https://github.com/mamute/css-module-quick-switch.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
