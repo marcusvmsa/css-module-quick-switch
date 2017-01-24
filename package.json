@@ -8,7 +8,10 @@
   "activationCommands": {
     "atom-workspace": "css-module-quick-switch:toggle"
   },
-  "repository": "https://github.com/atom/css-module-quick-switch",
+  "repository": {
+      "type": "git",
+      "https://github.com/mamute/css-module-quick-switch"
+    },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
